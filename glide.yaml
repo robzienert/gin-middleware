@@ -1,0 +1,5 @@
+package: github.com/robzienert/gin-middleware
+import:
+- package: github.com/Sirupsen/logrus
+- package: github.com/gin-gonic/gin
+- package: github.com/satori/go.uuid
